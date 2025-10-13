@@ -1,0 +1,101 @@
+ls
+history exercice1github.txt
+history output.txt
+history
+git push origin tp1-ex1
+git push -u origin main
+git pull origin main --rebase
+git tag tp1-ex1
+git commit -m "Ajout du script comptes.sh pour le comptage des Locations"
+git add comptes.sh
+git add Exercices/comptes.sh
+git remote -v
+git remote add origin https://github.com/Farah04git/PPE1-2025.git
+git remote remove origin
+git push -u origin main
+Username for 'https://github.com': Farah04git
+git remote add origin https://github.com/Farah04git/PPE1-2025
+remote add origin https://github.com/Farah04git/PPE1-2025
+git status
+ls -a
+cd Exercices/
+clear
+cd ..
+cd
+pwd
+git init
+mkdir Exercices
+mv Exercices/ Documents/
+mv Exercices/
+cd Exercice1-PPE1/
+cd exercices/
+cd Documents/PPE1-2526/
+cd Desktop/
+mv 2018*.ann 2018/
+mv 2017*.ann 2017/
+mv 2016*.ann 2016/
+mv 2016*.ann ann/2016/
+mv *.2016.ann ann/2016/
+ls *ann*2016*
+mv *2016* ann/2016
+mv *ann*2016 ann/2016/
+mv *2016*ann ann/2016
+mv *2016*ann* ann/2016
+mv *2016*ann* ann/2016/
+kate
+cd ann/
+brew install kate
+brew install wget
+history >> historiqueExercice1-PPE1.txt
+history >> historiqueExercice1-PPE1
+mv *Kyo* Kyoto/
+mv *Tai* Taipei/
+mv *Rom* Rome
+mv *Was* Washington/
+mv *Tok* Tokyo/
+mv *Ber* Berlin/
+mkdir Berlin Rome Tokyo Kyoto Washington
+mv *Par* Paris/
+mkdir Paris
+cd img/
+ls img/
+mv *.{jpg,png,gif,PNG,jpeg,svg,JPG,webp,GIF} img/
+mv *.{jpg,png,gif,PNG,jpeg,svg,JPG,webp} img/
+mv *ann* ann/
+mv *.{jpg,png,gif,PNG,jpeg,svg} img/
+mv *.{jpg,png,gif} img/
+mv *png* img/
+mv *img* /img
+mv *img* img/img
+mv *img* img/
+mv *img* img
+man mv
+mv *2018*txt* txt/2018/
+mv *2017*txt* txt/2017/
+mv *2016*txt* txt/2016/
+mkdr -p txt/2026/01 txt/2026/02 txt/2017/01
+mkdir txt ann img docs
+unzip archive-23.zip
+unzip
+cd archive-23.zip
+find ~ -name "archive-23.zip" 2>/dev/null
+mv archive-23.zip ~/Documents/Exercice1-PPE1/
+ls archive-23.zip
+wget http://plurital.org/ppe1/seance1/archive-23.zip
+sudo apt update
+mkdir Exercice1-PPE1
+git pull
+cd PPE-1/
+tesseract -l urd ourdou.tif output.txt
+tesseract -l urd ourdou.tif
+cd CData/exercice\ OCR/
+tesseract --list-langs
+jupyter-lab
+jupyterlab
+tesseract -l hin hindi_2_colonnes.png output.txt
+tesseract -l eng atouslesfrançais.jpg output.txt
+tesseract -l fra atouslesfrançais.jpg output.txt
+-l fra atouslesfrançais.jpg output.txt
+tesseract -l fra atouslesfrançais.jpg
+tesseract hindi_2_colonnes.png output.txt
+tesseract
