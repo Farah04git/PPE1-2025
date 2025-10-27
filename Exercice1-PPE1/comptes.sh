@@ -3,7 +3,7 @@
 # affiche l'argument donné
 echo "Argument donné : $1"
 
-# donne comme argument 1 le chemin (ici ann)
+# donne comme argument $1 le chemin (ici ann)
 CHEMIN=$1
 
 # affiche le nombre de lieux en X années
