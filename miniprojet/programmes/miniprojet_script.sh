@@ -14,6 +14,13 @@ if [ ! -f "$FICHIER_URL" ]; then
 	exit 1
 fi
 
+# chemin du dossier résultat
+FICHIER_RESULTAT="tableaux/tableau-fr.tsv"
+
+# ajout de l'en-tête dans le fichier résultat
+echo -e "N°\tURL\tCode_HTTP\tEncodage\tNb_Mots" > "$FICHIER_RESULTAT"
+
+
 # lecture du fichier ligne par ligne
 n=1
 while read url; do
@@ -28,5 +35,7 @@ while read url; do
   echo -e "$n\t$url\t$code\t${encodage:-inconnu}\t$mots"
   ((n++))
 done < "$FICHIER_URL"
+
+echo "Fichier tab généré : $FICHIER_RESULTAT"
 
 

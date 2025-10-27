@@ -1,0 +1,47 @@
+    1  exit bash
+    2  bash monscript.sh
+    3  bash monscript.sh
+    4  bash monscript.sh
+    5  ls
+    6  kate
+    7  cat comptes.sh
+    8  chmod +x comptes.sh
+    9  ./comptes.sh ~/Exercice1-PPE1/ann
+   10  man
+   11  lynx -dump -nolist https://plurital.org | grep '\d+\. (http|mailto:)'
+   12  lynx -dump -nolist https://plurital.org | grep '\d+\. (http|mailto)'
+   13  lynx -dump -nolist https://plurital.org
+   14  cd ..
+   15  brew install curl
+   16  brew install wget
+   17  brew install wget
+   18  brew reinstall wget
+   19  ls
+   20  cd Documents
+   21  cd PPE2025
+   22  ls
+   23  cd PPE1-2025
+   24  ls
+   25  cd miniprojet
+   26  ls
+   27  chmod x+ miniprojet_script.sh
+   28  chmod +x miniprojet_script.sh
+   29  cd miniprojet
+   30  chmod +x miniprojet_script.sh
+   31  bash miniprojet_script.sh urls/fr.txt > resultat.txt
+   32  cd urls
+   33  ls
+   34  cd ..
+   35  ls
+   36  cd urls
+   37  bash miniprojet_script.sh urls/fr.txt > resultat.txt
+   38  bash miniprojet_script.sh
+   39  bash miniprojet_script.sh > resultat.txt
+   40  pwd
+   41  cd ..
+   42  cd ..
+   43  bash ~/Documents/mini-projet/miniprojet_script.sh ~/Documents/mini-projet/urls/fr.txt > ~/Documents/mini-projet/resultat.txt
+   44  bash miniprojet.sh urls/fr.txt > tableau-fr.tsv
+   45  bash miniprojet.sh urls/fr.txt > tableau-fr.tsv
+   46  bash miniprojet/programmes/miniprojet_script.sh miniprojet/urls/fr.txt
+   47  history >> exercice-miniprojet.txt
