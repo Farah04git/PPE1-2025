@@ -1,0 +1,11 @@
+N°	URL	Code_HTTP	Encodage	Nb_Mots
+1	https://fr.wikipedia.org/wiki/Robot	200	inconnu	   13918
+2	https://fr.wikipedia.org/wiki/Robot_de_cuisine	200	inconnu	    4124
+3	fr.wikipedia.org/wiki/Robot_d%27indexation	301	inconnu	       0
+4	https://fr.wikipedia.org/wiki/Bot_informatique	200	inconnu	    6540
+5	https://fr.wikipedia.org/wiki/Atlas_(robot)	200	inconnu	    4019
+6	https://roboty.magistry.fr	000	inconnu	       0
+7	https://fr.wikipedia.org/wiki/Robot_(Leonard_de_Vinci)	404	inconnu	    2294
+8	https://fr.wiktionary.org/wiki/robot	429	inconnu	     264
+9	https://fr.wikipedia.org/wiki/Protocole_d%27exclusion_des_robots	429	inconnu	     264
+10	https://fr.wikipedia.org/wiki/Robotique	429	inconnu	     264

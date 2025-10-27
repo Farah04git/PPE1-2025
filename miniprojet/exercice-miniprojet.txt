@@ -45,3 +45,18 @@
    45  bash miniprojet.sh urls/fr.txt > tableau-fr.tsv
    46  bash miniprojet/programmes/miniprojet_script.sh miniprojet/urls/fr.txt
    47  history >> exercice-miniprojet.txt
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd PPE1-2025
+   52  pwd
+   53  bash miniprojet/programmes/miniprojet_script.sh miniprojet/urls/fr.txt
+   54  ls
+   55  pwd
+   56  bash miniprojet/programmes/miniprojet_script.sh miniprojet/urls/fr.txt
+   57  pwd
+   58  bash miniprojet/programmes/miniprojet_script.sh miniprojet/urls/fr.txt > tableaux/tableau-fr.tsv
+   59  bash miniprojet/programmes/miniprojet_script.sh miniprojet/urls/fr.txt
+   60  bash miniprojet/programmes/miniprojet_script.sh miniprojet/urls/fr.txt>> tableaux/tableau-fr.tsv
+   61  bash miniprojet/programmes/miniprojet_script.sh miniprojet/urls/fr.txt>> tableau.tsv
+   62  history >> exercice-miniprojet.txt
