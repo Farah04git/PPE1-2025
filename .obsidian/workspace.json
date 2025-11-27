@@ -180,9 +180,13 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "5b0d2804c97e64bf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "git-along/README.md",
+    "Journal.md"
+  ]
 }
